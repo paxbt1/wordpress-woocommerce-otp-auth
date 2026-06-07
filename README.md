@@ -112,6 +112,18 @@
 7. در صورت خطا، تغییر حالت فیلدها به رنگ قرمز و نمایش پیام خطا
 8. در صورت کاربر جدید بودن، نمایش فرم تکمیل ثبت‌نام
 
+
+## Screenshots
+
+| Login / Register                                                      | OTP Verification                                                          |
+| --------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| <img src="assets/screenshots/login.png" alt="Login Page" width="450"> | <img src="assets/screenshots/otp.png" alt="OTP Verification" width="450"> |
+
+| OTP Error State                                                                |
+| ------------------------------------------------------------------------------ |
+| <img src="assets/screenshots/otp-error.png" alt="OTP Error State" width="450"> |
+
+
 ---
 
 ## امکانات ووکامرس
