@@ -21,6 +21,8 @@
 | وب‌سایت | [woocom.ir](https://woocom.ir/) |
 | پشتیبانی | 09113678868 |
 | لایسنس | GPLv2 or later |
+| تلگرام | [مدیر وردپرس](https://t.me/wpadminn)  |
+
 
 ---
 
